@@ -170,6 +170,43 @@ main{
  justify-content: center;
  align-items: center;
 }
-.proj-pic > .proj-picbox img{
-    
+
+
+/*  Projects  */
+.grid{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.gridbox{
+  display: flex;
+  flex-direction: row;
+  width: 60%;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.gridbox img{
+  margin: 1%;
+}
+.gridbox-part{
+  margin: 1%;
+}
+
+.grid-galery{
+  display: flex;
+  flex-direction: row;
+   width: 100%;
+   margin: 0;
+   padding: 0;
+   justify-content: center;
+   align-items: center;
+}
+
+.grid-galery img{
+  margin: 0;
+  padding: 0;
 }
