@@ -210,3 +210,13 @@ main{
   margin: 0;
   padding: 0;
 }
+
+
+
+@media screen and (max-width: 1000px) {
+  .grid-galery{
+    display: grid;
+    grid-template-columns: auto;
+}
+
+}
