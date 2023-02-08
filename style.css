@@ -21,6 +21,10 @@ nav ul li a {
     color: white;
     text-decoration: none;
 }
+main img{
+    width: 50vw;
+    height: 50vh;
+}
 
 main{
     width: 80%;
