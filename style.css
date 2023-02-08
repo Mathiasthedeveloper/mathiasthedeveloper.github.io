@@ -1,0 +1,12 @@
+body{
+    width: 100%;
+    background-color: black;
+}
+
+nav{
+
+}
+
+nav ul li a {
+    color: white;
+}
