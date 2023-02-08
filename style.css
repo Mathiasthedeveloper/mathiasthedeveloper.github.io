@@ -12,6 +12,9 @@ nav{
     background-color: rgb(65, 65, 65);
     width: 80%;
     color: white;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20%;
 }
 nav ul{
     list-style: none;
